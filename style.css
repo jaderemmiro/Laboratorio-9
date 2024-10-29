@@ -3,7 +3,6 @@ bodybody{
 	margin: 0;
 	padding: 0;
 	background-color: #ffffff;
-	line-height: ;
 }
 
 header {
@@ -28,7 +27,11 @@ nav	ul li {
         display: inline;
         margin-right: 20px;
     }
-    
+
+img {
+        width: 200px;
+        height: 200px;
+    }
 
 footer {
         background-color: black;
