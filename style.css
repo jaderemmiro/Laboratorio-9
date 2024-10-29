@@ -1,0 +1,40 @@
+bodybody{
+	font-family: Times New Roman, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+	line-height: ;
+}
+
+header {
+    background-color: #46a2da;
+    color: black;
+    text-align: center;
+    padding: 1em;
+    }
+
+nav {
+        text-align: center;
+    }
+    
+nav	ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 10;
+    }
+    
+    
+nav	ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+    
+
+footer {
+        background-color: black;
+        color: #ffffff;
+        display: block;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
